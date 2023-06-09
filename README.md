@@ -1,5 +1,7 @@
 ## Semester Project 1
 
+![Museeum](https://github.com/EskanderAmadov/Semester-Project/assets/114715507/16657d32-ade5-4945-80f9-c5b407f544b3)
+
 ## Description
 
 This is the GitHub repository for the Cuminity science museum website.
